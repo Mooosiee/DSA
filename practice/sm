@@ -1,0 +1,85 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int n, m;
+    cin >> n >> m;
+
+    vector<string> commands(m);
+    for (int i = 0; i < m; ++i) {
+        cin >> commands[i];
+    }
+
+    // Store leaf coordinates in a set for quick access
+    set<pair<int, int>> leaves;  
+    vector<pair<int, int>> arr;  // This will store the actual leaves
+    for (int i = 0; i < n; i++) {
+        int x, y;
+        cin >> x >> y;
+        leaves.insert({x, y});  // Add to the set for fast lookups
+        arr.push_back({x, y});    // Also keep them in a vector if needed
+    }
+
+    // Freddy starts at the first leaf
+    auto current_position = *leaves.begin();  // Get the first leaf
+    leaves.erase(current_position);  // Remove it as it sinks
+
+    // Process each command
+    for (char command : commands) {
+        int x = current_position.first;
+        int y = current_position.second;
+        bool moved = false;
+
+        switch (command) {
+            case 'A': { // Move to (x + Z, y + Z)
+                auto it = leaves.upper_bound({x, y});  
+                if (it != leaves.end() && it->first > x && it->second > y) {
+                    current_position = *it;  // Move to this leaf
+                    leaves.erase(it);  // Remove the leaf as it sinks
+                    moved = true;
+                }
+                break;
+            }
+            case 'B': { // Move to (x + Z, y - Z)
+                auto it = leaves.upper_bound({x, y});  
+                if (it != leaves.end() && it->first > x && it->second < y) {
+                    current_position = *it;
+                    leaves.erase(it);
+                    moved = true;
+                }
+                break;
+            }
+            case 'C': { // Move to (x - Z, y + Z)
+                auto it = leaves.lower_bound({x, y});  
+                if (it != leaves.begin()) {
+                    --it;  // Move to the previous leaf
+                    if (it->first < x && it->second > y) {
+                        current_position = *it;
+                        leaves.erase(it);
+                        moved = true;
+                    }
+                }
+                break;
+            }
+            case 'D': { // Move to (x - Z, y - Z)
+                auto it = leaves.lower_bound({x, y});
+                if (it != leaves.begin()) {
+                    --it;  
+                    if (it->first < x && it->second < y) {
+                        current_position = *it;
+                        leaves.erase(it);
+                        moved = true;
+                    }
+                }
+                break;
+            }
+        }
+        
+        // If Freddy doesn't move (moved is false), he stays at current_position
+    }
+
+    // Print final position of Freddy
+    cout << current_position.first << " " << current_position.second << endl;
+
+    return 0;
+}
