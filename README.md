@@ -8,6 +8,7 @@ I revisit them to deepen my understanding and track my progress.
 ## Array
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/Mooosiee/DSA/tree/master/1895-largest-magic-square) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mooosiee/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mooosiee/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mooosiee/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -36,4 +37,12 @@ I revisit them to deepen my understanding and track my progress.
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mooosiee/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Matrix
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/Mooosiee/DSA/tree/master/1895-largest-magic-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/Mooosiee/DSA/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
