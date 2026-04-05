@@ -56,4 +56,20 @@ I revisit them to deepen my understanding and track my progress.
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mooosiee/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mooosiee/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mooosiee/DSA/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mooosiee/DSA/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mooosiee/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mooosiee/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
