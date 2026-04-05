@@ -8,6 +8,7 @@ I revisit them to deepen my understanding and track my progress.
 ## Array
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Mooosiee/DSA/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mooosiee/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Mooosiee/DSA/tree/master/1895-largest-magic-square) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mooosiee/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -44,6 +45,7 @@ I revisit them to deepen my understanding and track my progress.
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Mooosiee/DSA/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mooosiee/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Mooosiee/DSA/tree/master/1895-largest-magic-square) |
 ## Prefix Sum
@@ -64,6 +66,7 @@ I revisit them to deepen my understanding and track my progress.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mooosiee/DSA/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Mooosiee/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
