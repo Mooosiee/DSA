@@ -2,3 +2,77 @@
 
 This repo contains DSA problems that I struggled with or found interesting.
 I revisit them to deepen my understanding and track my progress.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Mooosiee/DSA/tree/master/0994-rotting-oranges) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mooosiee/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1895-largest-magic-square](https://github.com/Mooosiee/DSA/tree/master/1895-largest-magic-square) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mooosiee/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mooosiee/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mooosiee/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mooosiee/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mooosiee/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3453-separate-squares-i](https://github.com/Mooosiee/DSA/tree/master/3453-separate-squares-i) |
+## Binary Search
+|  |
+| ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mooosiee/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3453-separate-squares-i](https://github.com/Mooosiee/DSA/tree/master/3453-separate-squares-i) |
+## Sorting
+|  |
+| ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Mooosiee/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+## Hash Table
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mooosiee/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Mooosiee/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Math
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mooosiee/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Mooosiee/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Mooosiee/DSA/tree/master/0994-rotting-oranges) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mooosiee/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1895-largest-magic-square](https://github.com/Mooosiee/DSA/tree/master/1895-largest-magic-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Mooosiee/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1895-largest-magic-square](https://github.com/Mooosiee/DSA/tree/master/1895-largest-magic-square) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Mooosiee/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mooosiee/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mooosiee/DSA/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mooosiee/DSA/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Mooosiee/DSA/tree/master/0994-rotting-oranges) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mooosiee/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Mooosiee/DSA/tree/master/0547-number-of-provinces) |
+<!---LeetCode Topics End-->
